@@ -1,2 +1,4 @@
 # hello-world
-the first lessson of GIt
+Hello world 
+
+this is the first lessson of GIt
